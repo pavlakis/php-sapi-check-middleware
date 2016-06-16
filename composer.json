@@ -1,6 +1,6 @@
 {
   "name": "pavlakis/php-sapi-check-middleware",
-  "description": "Making a mock GET request through the CLI and enabling the same application entry point on CLI scripts.",
+  "description": "Check the SAPI interface is as expected or return a 403 response.",
   "keywords": [
     "slim", "framework", "cli", "middleware", "php-sapi"
   ],
