@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/pavlakis/slim-cli.svg)](https://travis-ci.org/pavlakis/slim-cli)
+[![Build Status](https://travis-ci.org/pavlakis/php-sapi-check-middleware.svg)](https://travis-ci.org/pavlakis/php-sapi-check-middleware)
 
 # PHP SAPI Check Middleware
 
