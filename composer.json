@@ -17,7 +17,7 @@
   "autoload": {
     "psr-4": {
       "pavlakis\\middleware\\server\\tests\\" : "tests/phpunit",
-      "pavlakis\\middleware\\server": "src"
+      "pavlakis\\middleware\\server\\": "src"
     }
   },
   "require": {
